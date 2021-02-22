@@ -146,7 +146,12 @@ hr{
   color: #fff;
 }
 
+.freepik-credits{
+  margin: 15px 10px 0 10px;
+  font-size: 0.75rem;
+}
+
 .copyright{
-  margin: 15px 10px 10px 10px;
+  margin: 0 10px 10px 10px;
   font-size: 0.75rem;
 }
